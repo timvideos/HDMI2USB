@@ -24,7 +24,7 @@ The HDMI2USB project is part of the
 
  * The [HDMI2USB website](https://hdmi2usb.tv) can be found at https://hdmi2usb.tv
 
-   *(The hdmi2usb **.com** and inogeni is **not** affiliated with our project.)*
+   *(The hdmi2usb* **.com** *and inogeni is **not** affiliated with our project.)*
 
  * The [HDMI2USB wiki](https://github.com/timvideos/HDMI2USB/wiki) can be found
    at https://github.com/timvideos/HDMI2USB/wiki
