@@ -46,7 +46,7 @@ The HDMI2USB project is part of the
 
  * The original (and **now obsolete**) firmware is called "jahanzeb firmware" and
    can be found in the 
-   [HDMI2USB-jahanzeb-firmware](https://github.com/timvideos/HDMI2USB-jahanzeb-firmware)
+   [HDMI2USB-jahanzeb-firmware](https://github.com/timvideos/HDMI2USB-jahanzeb-firmware).
 
 
 # Hardware
@@ -61,7 +61,6 @@ The HDMI2USB project is part of the
    - The **complete design** is Open Source and found in the 
      [HDMI2USB-numato-opsis-hardware](https://github.com/timvideos/HDMI2USB-numato-opsis-hardware)
      repository.
-
 
    - ![Numato Opsis Picture](https://hdmi2usb.tv/img/numato-opsis.jpg)
 
