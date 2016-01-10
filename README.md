@@ -29,6 +29,9 @@ The HDMI2USB project is part of the
  * The [HDMI2USB wiki](https://github.com/timvideos/HDMI2USB/wiki) can be found
    at https://github.com/timvideos/HDMI2USB/wiki
 
+   **WARNING:** *The information in the wiki is mostly about the old jahanzeb
+   firmware (which is no longer under active development).*
+
 # Code
 
  * The [actively developed HDMI2USB firmware](https://hdmi2usb.tv/firmware/)
