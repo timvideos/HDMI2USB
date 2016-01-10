@@ -51,12 +51,12 @@ The HDMI2USB project is part of the
 
    - The Opsis can be [purchased through CrowdSupply.com](https://www.crowdsupply.com/numato-lab/opsis) 
      or directly from the [Numato.com](http://numato.com).
+     [![CrowdSupply Image](http://planet.timvideos.us/numato-opsis-crowdfunding-campaign-master/badge.png)](https://www.crowdsupply.com/numato-lab/opsis)
 
    - The **complete design** is Open Source and found in the 
      [HDMI2USB-numato-opsis-hardware](https://github.com/timvideos/HDMI2USB-numato-opsis-hardware)
      repository.
 
-   - ![CrowdSupply Image](http://planet.timvideos.us/numato-opsis-crowdfunding-campaign-master/badge.png)](https://www.crowdsupply.com/numato-lab/opsis)
 
    - ![Numato Opsis Picture](https://hdmi2usb.tv/img/numato-opsis.jpg)
 
