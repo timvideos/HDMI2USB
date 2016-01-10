@@ -8,8 +8,6 @@ conferences, meetings and user groups](https://hdmi2usb.tv).
 The HDMI2USB project is part of the 
 [TimVideos.us project](https://code.timvideos.us).
 
-![HDMI2USB System Diagram](https://hdmi2usb.tv/img/hdmi2usb.png)
-
 ### Quicklinks
 
  * [Getting started using a HDMI2USB device](https://hdmi2usb.tv/getting-started)
@@ -17,6 +15,8 @@ The HDMI2USB project is part of the
  * [Numato Opsis Hardware](https://opsis.hdmi2usb.tv)
 
  * [Live Chat Channel](http://webchat.freenode.net/?channels=timvideos)
+
+![HDMI2USB System Diagram](https://hdmi2usb.tv/img/hdmi2usb.png)
 
 ----
 
