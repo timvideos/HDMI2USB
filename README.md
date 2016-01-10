@@ -12,7 +12,9 @@ The HDMI2USB project is part of the
 
  * [Getting started using a HDMI2USB device](https://hdmi2usb.tv/getting-started)
 
- * [Numato Opsis Hardware](https://opsis.hdmi2usb.tv)
+ * [Helping the HDMI2USB project](https://hdmi2usb.tv/early-adopter)
+
+ * [Numato Opsis Hardware Developer Documentation](https://opsis.hdmi2usb.tv)
 
  * [Live Chat Channel](http://webchat.freenode.net/?channels=timvideos)
 
