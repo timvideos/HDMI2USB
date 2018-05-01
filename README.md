@@ -5,7 +5,7 @@
 options to record and stream HD videos (from HDMI & DisplayPort sources) for
 conferences, meetings and user groups](https://hdmi2usb.tv).
 
-The HDMI2USB project is part of the 
+The HDMI2USB project is part of the
 [TimVideos.us project](https://code.timvideos.us).
 
 ### Quicklinks
@@ -37,15 +37,15 @@ The HDMI2USB project is part of the
 # Code
 
  * The [actively developed HDMI2USB firmware](https://hdmi2usb.tv/firmware/)
-   is called the "misoc firmware" and can be found in the 
+   is called the "misoc firmware" and can be found in the
    [HDMI2USB-misoc-firmware](https://github.com/timvideos/HDMI2USB-misoc-firmware)
    repository.
 
-   - Prebuilt binaries suitable for loading onto boards are available in the 
+   - Prebuilt binaries suitable for loading onto boards are available in the
      [HDMI2USB-firmware-prebuilt](https://github.com/timvideos/HDMI2USB-firmware-prebuilt)
 
  * The original (and **now obsolete**) firmware is called "jahanzeb firmware" and
-   can be found in the 
+   can be found in the
    [HDMI2USB-jahanzeb-firmware](https://github.com/timvideos/HDMI2USB-jahanzeb-firmware).
 
 
@@ -54,11 +54,9 @@ The HDMI2USB project is part of the
  * The [Numato Opsis](https://hdmi2usb.tv/numato-opsis/) is the first HDMI2USB
    production board developed specifically for the HDMI2USB project.
 
-   - The Opsis can be [purchased through CrowdSupply.com](https://www.crowdsupply.com/numato-lab/opsis) 
-     or directly from the [Numato.com](http://numato.com).
-     [![CrowdSupply Image](http://planet.timvideos.us/numato-opsis-crowdfunding-campaign-master/badge.png)](https://www.crowdsupply.com/numato-lab/opsis)
+   - The Opsis can be [purchased from Numato Labs](https://numato.com/product/numato-opsis-fpga-based-open-video-platform)
 
-   - The **complete design** is Open Source and found in the 
+   - The **complete design** is Open Source and found in the
      [HDMI2USB-numato-opsis-hardware](https://github.com/timvideos/HDMI2USB-numato-opsis-hardware)
      repository.
 
