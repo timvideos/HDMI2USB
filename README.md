@@ -10,7 +10,9 @@ The HDMI2USB project is part of the
 
 ### Quicklinks
 
- * [Getting started using a HDMI2USB device](https://hdmi2usb.tv/getting-started)
+ * [Frequently asked questions about using a HDMI2USB device](https://hdmi2usb.tv/faq)
+
+ * [HDMI2USB drivers](https://hdmi2usb.tv/drivers)
 
  * [Helping the HDMI2USB project](https://hdmi2usb.tv/early-adopter)
 
